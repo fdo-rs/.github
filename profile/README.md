@@ -18,4 +18,5 @@ Please report issues in the [issue tracker](https://github.com/fdo-rs/fido-devic
 
 The following projects are related to FDO-rs:
 - The [Linux Foundation Edge FDO](https://www.lfedge.org/projects/fidodeviceonboard/) project.
-- An Ansible community [FDO collection] (https://github.com/ansible-collections/community.fdo) for deploying FDO-rs.
+- An Ansible community [FDO collection](https://github.com/ansible-collections/community.fdo) for deploying FDO-rs.
+- A kubernetes [operator for FDO](https://github.com/fdo-rs/fdo-operator).
